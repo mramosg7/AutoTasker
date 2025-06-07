@@ -5,7 +5,7 @@
 [![autotasker](https://img.shields.io/badge/documentation-autotasker-blue.svg)](https://autotasker.es)
 [![GPL License](https://img.shields.io/badge/license-GPL-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) 
 ![Version](https://img.shields.io/badge/version-0.2.1-green.svg)
-[![Download Stats](https://img.shields.io/pypi/dm/autotasker)](https://pypistats.org/packages/autotasker)
+[![PyPI Downloads](https://static.pepy.tech/badge/autotasker)](https://pepy.tech/projects/autotasker)
 [![Github repository](https://img.shields.io/badge/GitHub-autotasker-purple)](https://github.com/mramosg7/autotasker)
 
 
