@@ -21,6 +21,8 @@ setup(
     install_requires=[
         'Click',
         'InquirerPy',
+        'pycryptodome',
+        'cryptography'
     ],
     entry_points={
             'console_scripts': [
